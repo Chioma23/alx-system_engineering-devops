@@ -1,1 +1,1 @@
-“My shell”
+”7-everybody”
